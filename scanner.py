@@ -12,7 +12,7 @@
             {'IP': '192.168.2.1', 'MAC': 'c4:93:d9:8b:3e:5a'}
         ]
         
-   TCP Scan: Performs a TCP scan by sending SYN packets to <ports>.
+   TCP Scan: Performing a TCP scan by sending SYN packets to <ports>.
 
     Args:
         ip (str): An IP address or hostname to target.
